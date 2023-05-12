@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\services",
+    "\\src\\services\\db",
+    "\\src\\services\\db\\models"
   ],
-  "SelectedNode": "\\C:\\Users\\jazva\\Source\\Repos\\51135-BackEnd-2daPracticaIntegradora",
+  "SelectedNode": "\\src\\services\\db\\students.service.js",
   "PreviewInSolutionExplorer": false
 }
